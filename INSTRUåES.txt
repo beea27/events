@@ -1,0 +1,15 @@
+INSTRUÇÕES
+
+- O arquivos "baseDados_aps" é o arquivo sql que cria a base de dados que é utilizada para alimentar o site.
+    OBS.: Talvez quando for importar para o phpMyAdmin apareça a mensagem que o arvio ultrapassa o limite de tamanho, 
+    isso ocorre devido as imagens que importamos paras as tabelas, 
+    para isso basta ir nas confirgurações phpMyAdmin e mudar a configuração de limite de arquivo.
+
+
+- Para realizar o login como ADM basta colocar os dados abaixo: 
+    email: adm@adm.como
+    senha: adm123
+
+- E para logar como funcionario basta colocar os dados abaixo:
+    email: func@func.com
+    senha: func1234
